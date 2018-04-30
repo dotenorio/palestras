@@ -1,9 +1,26 @@
 # Palestras
-Links para minhas palestras por esse mundão a fora.
+Minhas palestras por esse mundão a fora.
 
-- [Electron](https://docs.google.com/presentation/d/16fBGVzqy7EtUTE7G8bFyp7h54yvIhQwiW_bh4TEb68k/edit?usp=sharing)
-- [AMP](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
-- [Regex](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
+[Electron - Construa aplicativos desktop multiplataforma com JavaScript, HTML e CSS](https://docs.google.com/presentation/d/16fBGVzqy7EtUTE7G8bFyp7h54yvIhQwiW_bh4TEb68k/edit?usp=sharing)
+----
+**Data:**  28/04/2018  
+**Local:** UFPR - Câmpus Avançado em Jandaia do Sul  
+**Organização:** [UFPR - Câmpus Avançado em Jandaia do Sul](http://www.jandaiadosul.ufpr.br/)  
+**Evento:** [FLISol](http://www.flisoljs.info/)  
+
+[AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
+----
+**Data:**  07/04/2018  
+**Local:** Incubadora Tecnológica de Maringá - UEM  
+**Organização:** [FEMUG](https://github.com/femugmga)  
+**Evento:** [FEMUG-MGA #12](https://www.meetup.com/pt-BR/femugmga/events/249121506/)  
+
+[Expressões Regulares Uma abordagem divertida](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
+----
+**Data:**  20/03/2018  
+**Local:** Orbital  
+**Organização:** [BEMUG](https://github.com/bemugmga)  
+**Evento:** [4º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/248627058/)  
 
 <br>
 
