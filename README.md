@@ -15,7 +15,7 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [FEMUG](https://github.com/femugmga)  
 **Evento:** [FEMUG-MGA #12](https://www.meetup.com/pt-BR/femugmga/events/249121506/)  
 
-[Expressões Regulares Uma abordagem divertida](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
+[Expressões Regulares - Uma abordagem divertida](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
 ----
 **Data:**  20/03/2018  
 **Local:** Orbital  
