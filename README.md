@@ -20,7 +20,14 @@ Minhas palestras por esse mundão a fora.
 **Data:**  20/03/2018  
 **Local:** Orbital  
 **Organização:** [BEMUG](https://github.com/bemugmga)  
-**Evento:** [4º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/248627058/)  
+**Evento:** [4º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/248627058/)
+
+&&
+
+**Data:**  10/05/2018  
+**Local:** TecnoSpeed  
+**Organização:** [TecnoSpeed](http://tecnospeed.com.br)  
+**Evento:** Tech Talk
 
 <br>
 
