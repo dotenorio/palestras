@@ -6,7 +6,12 @@ Minhas palestras por esse mundão a fora.
 **Data:**  28/04/2018  
 **Local:** UFPR - Câmpus Avançado em Jandaia do Sul  
 **Organização:** [UFPR - Câmpus Avançado em Jandaia do Sul](http://www.jandaiadosul.ufpr.br/)  
-**Evento:** [FLISol](http://www.flisoljs.info/)  
+**Evento:** [FLISol](http://www.flisoljs.info/)
+
+**Data:**  10/05/2018  
+**Local:** DB1 Global Software  
+**Organização:** [BEMUG](https://github.com/bemugmga)  
+**Evento:** [7º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/250133057/)
 
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
@@ -21,8 +26,6 @@ Minhas palestras por esse mundão a fora.
 **Local:** Orbital  
 **Organização:** [BEMUG](https://github.com/bemugmga)  
 **Evento:** [4º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/248627058/)
-
-&&
 
 **Data:**  10/05/2018  
 **Local:** TecnoSpeed  
