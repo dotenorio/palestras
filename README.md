@@ -3,6 +3,9 @@ Minhas palestras por esse mundão a fora.
 
 [Electron - Construa aplicativos desktop multiplataforma com JavaScript, HTML e CSS](https://docs.google.com/presentation/d/16fBGVzqy7EtUTE7G8bFyp7h54yvIhQwiW_bh4TEb68k/edit?usp=sharing)
 ----
+
+> Vamos descobrir como construir aplicativos desktop multiplataforma com JavaScript, HTML e CSS e se isso é realmente tão bom quanto parece ser.
+
 **Data:**  28/04/2018  
 **Local:** UFPR - Câmpus Avançado em Jandaia do Sul  
 **Organização:** [UFPR - Câmpus Avançado em Jandaia do Sul](http://www.jandaiadosul.ufpr.br/)  
@@ -20,6 +23,9 @@ Minhas palestras por esse mundão a fora.
 
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
+
+> O projeto AMP é uma iniciativa de código aberto com o objetivo de criar uma Web melhor para todos. O projeto possibilita a criação de websites e anúncios rápidos, atraentes e de alto desempenho em vários dispositivos e plataformas de distribuição.
+
 **Data:**  07/04/2018  
 **Local:** Incubadora Tecnológica de Maringá - UEM  
 **Organização:** [FEMUG](https://github.com/femugmga)  
@@ -27,6 +33,9 @@ Minhas palestras por esse mundão a fora.
 
 [Expressões Regulares - Uma abordagem divertida](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
 ----
+
+> Nesta palestra pretendo trazer o significado de cada metacaractere que compõe uma expressão regular. E se tudo der certo, alguns exemplos práticos :D
+
 **Data:**  20/03/2018  
 **Local:** Orbital  
 **Organização:** [BEMUG](https://github.com/bemugmga)  
