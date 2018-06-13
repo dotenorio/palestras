@@ -13,6 +13,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [BEMUG](https://github.com/bemugmga)  
 **Evento:** [7º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/250133057/)
 
+**Data:**  06/06/2018  
+**Local:** TecnoSpeed  
+**Organização:** [TecnoSpeed](http://tecnospeed.com.br)  
+**Evento:** Tech Talk
+
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
 **Data:**  07/04/2018  
