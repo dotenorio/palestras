@@ -46,6 +46,18 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [TecnoSpeed](http://tecnospeed.com.br)  
 **Evento:** Tech Talk
 
+[Software Livre: chegou a sua hora de contribuir!](https://docs.google.com/presentation/d/14GJyMmO-uiFbhA4dCIKfUDkEqRk7GPNKrVtEoyukmO0/edit?usp=sharing)
+----
+
+> Bom, usamos os famosos software, bibliotecas, posts, etc.. livres todos os dias o tempo todo, mas será que devolvemos algo para comunidade?? Talvez já tenha passado a hora de você contribuir de alguma forma..
+> Acredite!
+> Um simples ponto pode deixar o dono do repositório imensamente grato.
+
+**Data:**  02/08/2018  
+**Local:** UDS Tecnologia 
+**Organização:** [BEMUG](https://github.com/bemugmga)  
+**Evento:** [11º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/253306850/)
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
