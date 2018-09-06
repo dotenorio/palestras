@@ -21,6 +21,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [TecnoSpeed](http://tecnospeed.com.br)  
 **Evento:** Tech Talk
 
+**Data:**  06/09/2018  
+**Local:** FEITEP  
+**Organização:** [FEITEP](http://www.feitep.edu.br)  
+**Evento:** Semana de Arquitetura e Engenharias Feitep 2018
+
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
 
