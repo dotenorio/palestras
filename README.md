@@ -24,7 +24,7 @@ Minhas palestras por esse mundão a fora.
 **Data:**  06/09/2018  
 **Local:** FEITEP  
 **Organização:** [FEITEP](http://www.feitep.edu.br)  
-**Evento:** Semana de Arquitetura e Engenharias Feitep 2018
+**Evento:** [Semana de Arquitetura e Engenharias Feitep 2018](https://www.facebook.com/events/223131065002550/)
 
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
