@@ -63,6 +63,17 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [BEMUG](https://github.com/bemugmga)  
 **Evento:** [11º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/253306850/)
 
+[Hexo, só mais um projeto javascript para agilizar as coisas](https://docs.google.com/presentation/d/15QyzJ1lD8TYPcKNEfBmIrDDhe_OsLTRJtV8TbQzfVrc/edit)
+----
+
+> Bom, nessa talk pretendo mostrar como o Hexo funciona, do que ele é feito e outras coisinhas a mais.
+> Quem sabe você use ele no futuro 😄
+
+**Data:**  29/09/2018  
+**Local:** UEM - Universidade Estadual de Maringá
+**Organização:** [FEMUG](https://github.com/femugmga)  
+**Evento:** [FEMUG-MGA #16](https://www.meetup.com/pt-BR/femugmga/events/254492028/)
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
