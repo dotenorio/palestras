@@ -32,7 +32,7 @@ Minhas palestras por esse mundão a fora.
 > O projeto AMP é uma iniciativa de código aberto com o objetivo de criar uma Web melhor para todos. O projeto possibilita a criação de websites e anúncios rápidos, atraentes e de alto desempenho em vários dispositivos e plataformas de distribuição.
 
 **Data:**  07/04/2018  
-**Local:** Incubadora Tecnológica de Maringá - UEM  
+**Local:** Incubadora Tecnológica de Maringá - UEM
 **Organização:** [FEMUG](https://github.com/femugmga)  
 **Evento:** [FEMUG-MGA #12](https://www.meetup.com/pt-BR/femugmga/events/249121506/)  
 
@@ -59,7 +59,7 @@ Minhas palestras por esse mundão a fora.
 > Um simples ponto pode deixar o dono do repositório imensamente grato.
 
 **Data:**  02/08/2018  
-**Local:** UDS Tecnologia 
+**Local:** UDS Tecnologia  
 **Organização:** [BEMUG](https://github.com/bemugmga)  
 **Evento:** [11º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/253306850/)
 
@@ -70,7 +70,7 @@ Minhas palestras por esse mundão a fora.
 > Quem sabe você use ele no futuro 😄
 
 **Data:**  29/09/2018  
-**Local:** UEM - Universidade Estadual de Maringá
+**Local:** UEM - Universidade Estadual de Maringá  
 **Organização:** [FEMUG](https://github.com/femugmga)  
 **Evento:** [FEMUG-MGA #16](https://www.meetup.com/pt-BR/femugmga/events/254492028/)
 
