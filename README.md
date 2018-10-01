@@ -32,7 +32,7 @@ Minhas palestras por esse mundão a fora.
 > O projeto AMP é uma iniciativa de código aberto com o objetivo de criar uma Web melhor para todos. O projeto possibilita a criação de websites e anúncios rápidos, atraentes e de alto desempenho em vários dispositivos e plataformas de distribuição.
 
 **Data:**  07/04/2018  
-**Local:** Incubadora Tecnológica de Maringá - UEM
+**Local:** Incubadora Tecnológica de Maringá - UEM  
 **Organização:** [FEMUG](https://github.com/femugmga)  
 **Evento:** [FEMUG-MGA #12](https://www.meetup.com/pt-BR/femugmga/events/249121506/)  
 
