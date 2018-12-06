@@ -86,8 +86,8 @@ Minhas palestras por esse mundão a fora.
 
 **Data:**  24/11/2018  
 **Local:** FEITEP  
-**Organização:** [GDG Paraná](https://devfestpr.com/)  
-**Evento:** [GDG DevFest Paraná 2018 - Beyond Serverless](https://devfestpr.com/)
+**Organização:** [GDG Paraná](https://www.facebook.com/gdgparana/)  
+**Evento:** [GDG DevFest Paraná 2018 - Beyond Serverless](https://www.meetup.com/pt-BR/GDG-Maringa/events/251472656/)
 
 <br>
 
