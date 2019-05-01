@@ -26,6 +26,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [FEITEP](http://www.feitep.edu.br)  
 **Evento:** [Semana de Arquitetura e Engenharias Feitep 2018](https://www.facebook.com/events/223131065002550/)
 
+**Data:**  26 e 27/04/2019  
+**Local:** Centro Sul Eventos 
+**Organização:** [TDC](http://thedevconf.com.br)  
+**Evento:** [The Deveveloper's Conference - Florianópolis](http://thedevconf.com.br/tdc/2019/florianopolis/trilhas)
+
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
 
@@ -73,6 +78,11 @@ Minhas palestras por esse mundão a fora.
 **Local:** UEM - Universidade Estadual de Maringá  
 **Organização:** [FEMUG](https://github.com/femugmga)  
 **Evento:** [FEMUG-MGA #16](https://www.meetup.com/pt-BR/femugmga/events/254492028/)
+
+**Data:**  27/04/2019  
+**Local:** Centro Sul Eventos 
+**Organização:** [TDC](http://thedevconf.com.br)  
+**Evento:** [The Deveveloper's Conference - Florianópolis](http://thedevconf.com.br/tdc/2019/florianopolis/trilhas)
 
 [▲ now - Vou lhes apresentar um novo conceito para serverless, agora!](https://docs.google.com/presentation/d/19wtuEkX2YGNlw5K0-gix5zmd_jHwMmR4x37gukVwVNg/edit?usp=sharing)
 ----
