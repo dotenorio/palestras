@@ -31,6 +31,8 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [TDC](http://thedevconf.com.br)  
 **Evento:** [The Deveveloper's Conference - Florianópolis](http://thedevconf.com.br/tdc/2019/florianopolis/trilhas)
 
+---
+
 [AMP - Accelerated mobile pages](https://docs.google.com/presentation/d/10N5rdemoXsjKjcJ_7BiTyFkNCSzWPSUX3vDW9ulY-BA/edit?usp=sharing)
 ----
 
@@ -40,6 +42,8 @@ Minhas palestras por esse mundão a fora.
 **Local:** Incubadora Tecnológica de Maringá - UEM  
 **Organização:** [FEMUG](https://github.com/femugmga)  
 **Evento:** [FEMUG-MGA #12](https://www.meetup.com/pt-BR/femugmga/events/249121506/)  
+
+---
 
 [Expressões Regulares - Uma abordagem divertida](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
 ----
@@ -56,6 +60,8 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [TecnoSpeed](http://tecnospeed.com.br)  
 **Evento:** Tech Talk
 
+---
+
 [Software Livre: chegou a sua hora de contribuir!](https://docs.google.com/presentation/d/14GJyMmO-uiFbhA4dCIKfUDkEqRk7GPNKrVtEoyukmO0/edit?usp=sharing)
 ----
 
@@ -67,6 +73,8 @@ Minhas palestras por esse mundão a fora.
 **Local:** UDS Tecnologia  
 **Organização:** [BEMUG](https://github.com/bemugmga)  
 **Evento:** [11º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/253306850/)
+
+---
 
 [Hexo, só mais um projeto javascript para agilizar as coisas](https://docs.google.com/presentation/d/15QyzJ1lD8TYPcKNEfBmIrDDhe_OsLTRJtV8TbQzfVrc/edit)
 ----
@@ -83,6 +91,8 @@ Minhas palestras por esse mundão a fora.
 **Local:** Centro Sul Eventos  
 **Organização:** [TDC](http://thedevconf.com.br)  
 **Evento:** [The Deveveloper's Conference - Florianópolis](http://thedevconf.com.br/tdc/2019/florianopolis/trilhas)
+
+---
 
 [▲ now - Vou lhes apresentar um novo conceito para serverless, agora!](https://docs.google.com/presentation/d/19wtuEkX2YGNlw5K0-gix5zmd_jHwMmR4x37gukVwVNg/edit?usp=sharing)
 ----
