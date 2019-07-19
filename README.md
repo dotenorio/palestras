@@ -116,7 +116,7 @@ Minhas palestras por esse mundão a fora.
 
 > Já pensou em ter o seu próprio chatbot inteligente no melhor mensageiro do universo?? Brincadeiras a parte, quero mostrar como pode ser simples você criar um robozinho muito esperto :D Vem comigo!
 
-**Data:**  17/07/2019
+**Data:**  17/07/2019  
 **Local:** Universidade Anhembi Morumbi  
 **Organização:** [TDC](http://thedevconf.com.br)  
 **Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
@@ -128,7 +128,7 @@ Minhas palestras por esse mundão a fora.
 
 > Vou lhes apresentar um novo conceito para serverless, agora!
 
-**Data:**  17/07/2019
+**Data:**  17/07/2019  
 **Local:** Universidade Anhembi Morumbi  
 **Organização:** [TDC](http://thedevconf.com.br)  
 **Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
