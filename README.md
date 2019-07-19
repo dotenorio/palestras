@@ -109,6 +109,30 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [GDG Paraná](https://www.facebook.com/gdgparana/)  
 **Evento:** [GDG DevFest Paraná 2018 - Beyond Serverless](https://www.meetup.com/pt-BR/GDG-Maringa/events/251472656/)
 
+---
+
+[Criando um ChatBot no Telegram utilizando Dialogflow](https://docs.google.com/presentation/d/1AQqyJEm9SXbIQ_vPWJVmBB-hhvEvNFTYYrmcjskmVM4/edit)
+----
+
+> Já pensou em ter o seu próprio chatbot inteligente no melhor mensageiro do universo?? Brincadeiras a parte, quero mostrar como pode ser simples você criar um robozinho muito esperto :D Vem comigo!
+
+**Data:**  17/07/2019
+**Local:** Universidade Anhembi Morumbi  
+**Organização:** [TDC](http://thedevconf.com.br)  
+**Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
+
+---
+
+[Now 2.0](https://docs.google.com/presentation/d/1yL67-6agiEFVx0X4zMCP0DAhtK3-nsEqewrQ8fahBtA/edit#slide=id.p)
+----
+
+> Vou lhes apresentar um novo conceito para serverless, agora!
+
+**Data:**  17/07/2019
+**Local:** Universidade Anhembi Morumbi  
+**Organização:** [TDC](http://thedevconf.com.br)  
+**Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
