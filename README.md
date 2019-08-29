@@ -132,6 +132,17 @@ Minhas palestras por esse mundão a fora.
 **Local:** Universidade Anhembi Morumbi  
 **Organização:** [TDC](http://thedevconf.com.br)  
 **Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
+---
+
+[Qual será o futuro do CSS?](https://docs.google.com/presentation/d/1cIOe5aHdbKQ9b5dC6wOc-UP6627s7PqYdA-Fp2-0g8M/edit?usp=sharing)
+----
+
+> Vivemos um momento em que o frontend de maneira geral está evoluindo muito, estamos ganhando ferramentas, libs, frameworks que tornam essa área mais exigente e robusta. Porém, onde o CSS está nessa evolução?
+
+**Data:**  28/08/2019  
+**Local:** CRMALL
+**Organização:** [FEMUG](https://www.meetup.com/pt-BR/femugmga/)  
+**Evento:** [FEMUG Maringá #25](https://www.meetup.com/pt-BR/femugmga/events/263551774/)
 
 <br>
 
