@@ -134,6 +134,8 @@ Minhas palestras por esse mundão a fora.
 **Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
 ---
 
+---
+
 [Qual será o futuro do CSS?](https://docs.google.com/presentation/d/1cIOe5aHdbKQ9b5dC6wOc-UP6627s7PqYdA-Fp2-0g8M/edit?usp=sharing)
 ----
 
