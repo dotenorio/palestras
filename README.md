@@ -77,7 +77,7 @@ Minhas palestras por esse mundão a fora.
 ---
 
 [Hexo, só mais um projeto javascript para agilizar as coisas](https://docs.google.com/presentation/d/15QyzJ1lD8TYPcKNEfBmIrDDhe_OsLTRJtV8TbQzfVrc/edit)
-----
+  ----
 
 > Bom, nessa talk pretendo mostrar como o Hexo funciona, do que ele é feito e outras coisinhas a mais.
 > Quem sabe você use ele no futuro 😄
@@ -132,7 +132,6 @@ Minhas palestras por esse mundão a fora.
 **Local:** Universidade Anhembi Morumbi  
 **Organização:** [TDC](http://thedevconf.com.br)  
 **Evento:** [The Deveveloper's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas)
----
 
 ---
 
