@@ -142,7 +142,7 @@ Minhas palestras por esse mundão a fora.
 > Vivemos um momento em que o frontend de maneira geral está evoluindo muito, estamos ganhando ferramentas, libs, frameworks que tornam essa área mais exigente e robusta. Porém, onde o CSS está nessa evolução?
 
 **Data:**  28/08/2019  
-**Local:** CRMALL
+**Local:** CRMALL  
 **Organização:** [FEMUG](https://www.meetup.com/pt-BR/femugmga/)  
 **Evento:** [FEMUG Maringá #25](https://www.meetup.com/pt-BR/femugmga/events/263551774/)
 
