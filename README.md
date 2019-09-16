@@ -145,6 +145,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [FEMUG](https://www.meetup.com/pt-BR/femugmga/)  
 **Evento:** [FEMUG Maringá #25](https://www.meetup.com/pt-BR/femugmga/events/263551774/)
 
+**Data:**  14/09/2019  
+**Local:** Sebrae Maringá  
+**Organização:** [Front In Maringá](https://frontin.maringa.br/)  
+**Evento:** [Front In Maringá](https://www.meetup.com/pt-BR/developerparana/events/263071901/)
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
