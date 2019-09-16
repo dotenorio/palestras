@@ -60,6 +60,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [TecnoSpeed](http://tecnospeed.com.br)  
 **Evento:** Tech Talk
 
+**Data:**  16/08/2019  
+**Local:** Mandic - Maringá  
+**Organização:** [Mandic](https://www.mandic.com.br/)  
+**Evento:** Tech Talk
+
 ---
 
 [Software Livre: chegou a sua hora de contribuir!](https://docs.google.com/presentation/d/14GJyMmO-uiFbhA4dCIKfUDkEqRk7GPNKrVtEoyukmO0/edit?usp=sharing)
