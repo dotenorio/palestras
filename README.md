@@ -65,6 +65,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [Mandic](https://www.mandic.com.br/)  
 **Evento:** Tech Talk
 
+**Data:**  23/09/2019  
+**Local:** UFPR - Câmpus Avançado em Jandaia do Sul  
+**Organização:** [UFPR - Câmpus Avançado em Jandaia do Sul](http://www.jandaiadosul.ufpr.br/)  
+**Evento:** Semana Acadêmica de Informática
+
 ---
 
 [Software Livre: chegou a sua hora de contribuir!](https://docs.google.com/presentation/d/14GJyMmO-uiFbhA4dCIKfUDkEqRk7GPNKrVtEoyukmO0/edit?usp=sharing)
