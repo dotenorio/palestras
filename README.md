@@ -145,6 +145,18 @@ Minhas palestras por esse mundão a fora.
 
 ---
 
+[Um Ensaio Sobre Zona de Conforto](https://docs.google.com/presentation/d/1Z-OqS9JVhh5FDjfyzx7U2Cpb_FQKnbhTSvsQEhENAIY/edit?usp=sharing)
+----
+
+> Eu, minha carreira, escolhas e os dias atuais
+
+**Data:**  11/07/2019  
+**Local:** Sumério Cervejas Especiais  
+**Organização:** [inga.js](https://github.com/inga-js)  
+**Evento:** [4º inga.js](https://www.meetup.com/pt-BR/developerparana/events/262444389/)
+
+---
+
 [Qual será o futuro do CSS?](https://docs.google.com/presentation/d/1cIOe5aHdbKQ9b5dC6wOc-UP6627s7PqYdA-Fp2-0g8M/edit?usp=sharing)
 ----
 
