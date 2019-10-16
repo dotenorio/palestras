@@ -45,10 +45,10 @@ Minhas palestras por esse mundão a fora.
 
 ---
 
-[Expressões Regulares - Uma abordagem divertida](https://docs.google.com/presentation/d/11ncOrDuzaaAGOny-7qdbm-MzodFwsZa70ap0TPIMd9M/edit?usp=sharing)
+[Expressões Regulares - Uma abordagem divertida](https://docs.google.com/presentation/d/1AxvuDwH1kSBWzKF1a0lQ3myq5Tm8ZblQimirv8MzK_M/edit?usp=sharing)
 ----
 
-> Nesta palestra pretendo trazer o significado de cada metacaractere que compõe uma expressão regular. E se tudo der certo, alguns exemplos práticos :D
+> Nesta palestra pretendo trazer o significado de cada metacaractere que compõe uma expressão regular.
 
 **Data:**  20/03/2018  
 **Local:** Orbital  
@@ -69,6 +69,11 @@ Minhas palestras por esse mundão a fora.
 **Local:** UFPR - Câmpus Avançado em Jandaia do Sul  
 **Organização:** [UFPR - Câmpus Avançado em Jandaia do Sul](http://www.jandaiadosul.ufpr.br/)  
 **Evento:** Semana Acadêmica de Informática
+
+**Data:**  15/10/2019  
+**Local:** UEM - Universidade Estadual de Maringá 
+**Organização:** [UEM - Universidade Estadual de Maringá](http://www.uem.br/)  
+**Evento:** Semana de Computação
 
 ---
 
