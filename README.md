@@ -75,6 +75,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [UEM - Universidade Estadual de Maringá](http://www.uem.br/)  
 **Evento:** Semana de Computação
 
+**Data:**  17/10/2019  
+**Local:** Faculdade Integrado - Campo Mourão 
+**Organização:** [Grupo Integrado](https://www.grupointegrado.br/)  
+**Evento:** Meetup
+
 ---
 
 [Software Livre: chegou a sua hora de contribuir!](https://docs.google.com/presentation/d/14GJyMmO-uiFbhA4dCIKfUDkEqRk7GPNKrVtEoyukmO0/edit?usp=sharing)
