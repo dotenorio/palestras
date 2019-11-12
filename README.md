@@ -182,6 +182,18 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [Front In Maringá](https://frontin.maringa.br/)  
 **Evento:** [Front In Maringá](https://www.meetup.com/pt-BR/developerparana/events/263071901/)
 
+---
+
+[Soft Skills](https://docs.google.com/presentation/d/1CxDr0ZX5tu0FYheKI6OifiWXUnFXGKtnaELxTOjCjts/edit?usp=sharing)
+----
+
+> Soft Skills - Pertinentes para um profissional de TI
+
+**Data:**  11/11/2019  
+**Local:** FACEC  
+**Organização:** [DevCia](https://github.com/devcia)  
+**Evento:** [I Semana Acadêmica da FACEC](https://faculdadefacec.edu.br/)  
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
