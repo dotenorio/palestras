@@ -194,6 +194,18 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [DevCia](https://github.com/devcia)  
 **Evento:** [I Semana Acadêmica da FACEC](https://faculdadefacec.edu.br/)  
 
+---
+
+[Aprendendo a criar uma API em GoLang](https://docs.google.com/presentation/d/1D4ugb_h9WcDehRWzx2Aq0odiapfbNMTOf9G3xVS7wog/edit?usp=sharing)
+----
+
+> Eu resolvi aprender Go tem mais ou menos duas semanas e gostaria de mostrar para vocês como foi esse processo de aprendizagem e de criação de uma API pronta para produção.
+
+**Data:**  31/01/2020  
+**Local:** Mandic - Maringá  
+**Organização:** [Mandic](https://www.mandic.com.br/)  
+**Evento:** Tech Talk
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
