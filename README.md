@@ -206,6 +206,11 @@ Minhas palestras por esse mundão a fora.
 **Organização:** [Mandic](https://www.mandic.com.br/)  
 **Evento:** Tech Talk
 
+**Data:**  13/02/2020  
+**Local:** HBSIS - Maringá  
+**Organização:** [BEMUG](https://github.com/bemugmga)
+**Evento:** [27º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/268498573/)
+
 <br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
