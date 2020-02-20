@@ -208,7 +208,7 @@ Minhas palestras por esse mundão a fora.
 
 **Data:**  13/02/2020  
 **Local:** HBSIS - Maringá  
-**Organização:** [BEMUG](https://github.com/bemugmga)
+**Organização:** [BEMUG](https://github.com/bemugmga)  
 **Evento:** [27º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/268498573/)
 
 <br>
