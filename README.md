@@ -71,12 +71,12 @@ Minhas palestras por esse mundão a fora.
 **Evento:** Semana Acadêmica de Informática
 
 **Data:**  15/10/2019  
-**Local:** UEM - Universidade Estadual de Maringá 
+**Local:** UEM - Universidade Estadual de Maringá  
 **Organização:** [UEM - Universidade Estadual de Maringá](http://www.uem.br/)  
 **Evento:** Semana de Computação
 
 **Data:**  17/10/2019  
-**Local:** Faculdade Integrado - Campo Mourão 
+**Local:** Faculdade Integrado - Campo Mourão  
 **Organização:** [Grupo Integrado](https://www.grupointegrado.br/)  
 **Evento:** Meetup
 
