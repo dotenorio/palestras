@@ -214,6 +214,7 @@ Minhas palestras por esse mundão a fora.
 ---
 
 [NOW - O Serverless de Verdade](https://docs.google.com/presentation/d/1kRJWTfxRcBZg5nsNiOMPdZOPhWlTw4Ksn-BZWcC4Iik/edit?usp=sharing)
+----
 
 > Nessa talk vou falar sobre um conceito de serverless criado pela ~Zeit~ Vercel: o Now.
 Se você acha que o lambda da AWS é fácil e tals, com o Now você vai rir de tão fácil que é!
